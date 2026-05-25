@@ -7,6 +7,7 @@ plugins {
 android {
     namespace = "com.starstack.app"
     compileSdk = 35
+    ndkVersion = "25.2.9519653"
 
     defaultConfig {
         applicationId = "com.starstack.app"
